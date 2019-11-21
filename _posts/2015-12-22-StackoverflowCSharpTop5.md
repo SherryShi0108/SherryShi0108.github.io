@@ -1,17 +1,14 @@
-[TOC]
-
 ---
-
-layout:post
-title:Test Chordates
-data:2014-11-12 05:50:55 +0800
-categories:jekyll
-tags:English
-author:Sherry
-mathjax:true
-
+layout: post
+title: Test Chordates
+data: 2014-11-12 05:50:55 +0800
+categories: jekyll
+tags: English CCC
+author: Sherry
+mathjax: true
 ---
-
+- Content
+{:toc}
 
 
 ## What is the difference between String and string in C#? 
