@@ -26,7 +26,7 @@ StimulsoftReports是一组报表组件，俄罗斯人做的进行全球售卖，
 
 1.  打开软件。双击应用程序 Designer.Wpf.exe，进入报表设计器。默认英文，可以选择右上角选择框进行语言切换，此处选择Chinese(Simplified)简体中文。
 
-2. 创建当前报表所需变量和数据源。字典-新建变量/新建数据源来进行创建，数据源选择从DataSet/DataTable中获取数据。增加栏（即字段），即可获得各列。![20200318_01](image/2020031801.png)
+2. 创建当前报表所需变量和数据源。字典-新建变量/新建数据源来进行创建，数据源选择从DataSet/DataTable中获取数据。增加栏（即字段），即可获得各列。![2020031801](image/2020031801.png)
 
 3. 绘制report。在左边侧栏中选择想要的数据项进行绘制，注意数据需要在Band中存放否则会每页打印。
 
@@ -157,3 +157,7 @@ report.Dictionary.Synchronize();
 [1] [HayvinYan]( https://www.cnblogs.com/alonghay/ ) : [Stimulsoft Reports筛选数据来绑定显示2个报表]( https://www.cnblogs.com/alonghay/p/3359863.html )
 
 [2] StackoverFlow [Kūrosh](https://stackoverflow.com/users/1383604/k%c5%abrosh) : [pass byte[] to stimulsoft using variable to display on image]( https://stackoverflow.com/questions/31690921/pass-byte-to-stimulsoft-using-variable-to-display-on-image )
+
+
+
+![朱一龙](image/朱一龙.png)
