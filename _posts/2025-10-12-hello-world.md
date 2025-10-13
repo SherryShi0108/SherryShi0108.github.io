@@ -1,7 +1,6 @@
 ---
 title: Hello World - 我的第一篇技术博客
 date: 2025-10-12 10:00:00 +0800
-comments: true
 categories:
   - 教程
   - 技术
