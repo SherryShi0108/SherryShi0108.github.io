@@ -119,7 +119,7 @@ comments:
   #  issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "https://github.com/SherryShi0108/SherryShi0108.github.io" # <gh-username>/<repo>
+    repo: "SherryShi0108/SherryShi0108.github.io" # <gh-username>/<repo>
     repo_id: "R_kgDOQBTgEg"
     category: "General"
     category_id: "DIC_kwDOQBTgEs4Cwk-q"
